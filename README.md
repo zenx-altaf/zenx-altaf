@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **altaf11mohd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bAB8put2Z8F2kxd6jIh5-ppBvZ4iEtXZ/view?usp=sharing](https://drive.google.com/file/d/1bAB8put2Z8F2kxd6jIh5-ppBvZ4iEtXZ/view?usp=sharing)
 
 <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/altaf_145/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
@@ -35,7 +34,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenx-altaf&show_icons=true&locale=en&layout=compact" alt="zenx-altaf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenx-altaf&show_icons=true&locale=en" alt="zenx-altaf" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>
+
+<a align= "center" href="https://github.com/zenx-altaf">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=zenx-altaf&theme=cobalt&show_icons=true&count_private=true" />
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenx-altaf&" alt="zenx-altaf" /></p>
 
