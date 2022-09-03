@@ -17,13 +17,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bAB8put2Z8F2kxd6jIh5-ppBvZ4iEtXZ/view?usp=sharing](https://drive.google.com/file/d/1bAB8put2Z8F2kxd6jIh5-ppBvZ4iEtXZ/view?usp=sharing)
 
-<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/altaf_145/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/MohdAltaf_145">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/introvideosexpert/featured">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1PJwP8uTyRQuOfmQpxoLQ8pGl7FbzVBrB/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 
 <h3 align="left">Languages and Tools:</h3>
