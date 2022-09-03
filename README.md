@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenx-altaf" alt="zenx-altaf" /></a> </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🔭 I’m currently working on [Food delivery web app](https://food-delivery-altaf.netlify.app)
 
 - 🌱 I’m currently learning **Mongodb, Next.js**
