@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Mongodb, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zenx-altaf](https://github.com/zenx-altaf)
-
 - 💬 Ask me about **react,javascript,bootstrap**
+
+- 👨‍💻 All of my projects are available at [https://github.com/zenx-altaf](https://github.com/zenx-altaf)
 
 - 📫 How to reach me **altaf11mohd@gmail.com**
 
