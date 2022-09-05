@@ -9,13 +9,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+- 🌱 I’m currently learning **Mongodb, Next.js**
+
 - 🔭 I’m currently working on [Food delivery web app](https://food-delivery-altaf.netlify.app)
 
 - 🌱 I’m currently learning **Mongodb, Next.js**
 
-- 💬 Ask me about **react,javascript,bootstrap**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zenx-altaf](https://github.com/zenx-altaf)
+
+- 💬 Ask me about **react,javascript,bootstrap**
 
 - 📫 How to reach me **altaf11mohd@gmail.com**
 
