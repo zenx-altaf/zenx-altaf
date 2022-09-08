@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on [Food delivery web app](https://food-delivery-altaf.netlify.app)
 
-- 🌱 I’m currently learning **Mongodb, Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zenx-altaf](https://github.com/zenx-altaf)
+
+- 🌱 I’m currently learning **Mongodb, Next.js**
 
 - 💬 Ask me about **react,javascript,bootstrap**
 
